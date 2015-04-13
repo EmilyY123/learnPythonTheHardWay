@@ -18,3 +18,11 @@ print "His teeth are usualy %s depending on the coffee." % my_teeth
 print "If I add %d, %d, and %d I get %d." % (my_age,my_height,my_weight,my_age+my_height + my_weight)
 
 print "If I add %d, %d, and %s." %(my_age,my_height,my_name)
+
+height_in_cm = my_height * 2.54
+weight_in_kg = my_weight / 2.2
+
+print "He's %d pounds heavy that is %f kg." %(my_weight,weight_in_kg)
+## print out as 2 digital round(f,2)
+print "He's %d pounds heavy that is %.2f kg." %(my_weight,weight_in_kg)
+print "He is %d inches tall that is %f cm." %(my_height,height_in_cm)
