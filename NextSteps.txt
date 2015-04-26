@@ -1,0 +1,19 @@
+Next Steps
+
+You’re not a programmer quite yet. I like to think of this book as giving you your “programming black belt.” You know enough to start another book on programming and handle it just fine. This book should have given you the mental tools and attitude you need to go through most Python books and actually learn something. It might even make it easy.
+I recommend you check out some of these projects and try to build something with them:
+• The Django Tutorial (https://docs.djangoproject.com/en/1.4/intro/tutorial01) and try to build a web application with the Django Web Framework (https://www.djangoproject.com).
+• SciPy (http://www.scipy.org), if you’re into science, math, and engineering and also Dexy (http://dexy.it), for when you want to write awesome papers that incorporate SciPy or any code really.
+• PyGame (http://www.pygame.org/news.html) and see if you can make a game with graphics and sound.
+• Pandas (http://pandas.pydata.org) for doing data manipulation and analysis.
+• Natural Language Tool Kit (http://nltk.org) for analyzing written text and writing things like spam filters and chat bots.
+• Requests (http://docs.python-requests.org/en/latest/index.html) to learn the client side of HTTP and the web.
+• SimpleCV (http://simplecv.org) to play with making your computer see things in the real world.
+• ScraPy (http://scrapy.org) and try scraping some websites to get information off them.
+• Panda3D (https://www.panda3d.org) for doing 3D graphic and games.
+• Kivy (http://kivy.org) for doing user interfaces on desktops and mobile platforms.
+• SciKit-Learn (http://scikit-learn.org/stable) for machine learning applications.
+• Ren’Py (http://renpy.org) for doing interactive fiction games, similar to what you’ve built in this book but with pictures.
+• Learn C the Hard Way (http://c.learncodethehardway.org) after you’re familiar with Python and try learning C and algorithms with my other book. Take it slow; C is different but a very good thing to learn.
+Pick one of the above projects, and go through any tutorials and documentation they have. As you go through it, type in all the code and make it work. That’s how I do it. That’s how every programmer does it. Reading programming documentation is not enough to learn it; you have to do it. After you get through the tutorial and any other documentation they have, make something. Anything will do, even something someone else has already written. Just make something.
+Just understand anything you write will probably suck. That’s alright though; I suck at every programming language I first start using. Nobody writes pure perfect gold when they’re a beginner, and anyone who tells you they did is a huge liar.
